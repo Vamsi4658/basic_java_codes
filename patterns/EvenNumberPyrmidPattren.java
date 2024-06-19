@@ -23,5 +23,6 @@ public class EvenNumberPyrmidPattren {
 			} 
 			System.out.println();
 		}
+//		sc.close();
 	}
 }
